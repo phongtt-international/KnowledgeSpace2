@@ -5,3 +5,9 @@ KnowledgeSpace is a open source project for everyone. Every member can create ne
 2. Angular 8
 3. Identity Server 4
 4. SQL Server 2019
+# How to run this Project
+1. Clone this source code from Repository
+2. Build solution to restore all Nuget Packages
+3. Set startup project is KnowledgeSpace.BackendServer
+4. Run Update-Database to generate database
+5. Set startup project to multiple projects include: KnowledgeSpace.BackendServer and KnowledgeSpace.WebPortal
