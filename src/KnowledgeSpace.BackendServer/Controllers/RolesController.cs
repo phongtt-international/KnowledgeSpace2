@@ -49,7 +49,7 @@ namespace KnowledgeSpace.BackendServer.Controllers
             var rolevms = roles.Select(r => new RoleVm()
             {
                 Id = r.Id,
-                Name = r.Name
+                Name = r.Name   
             });
             return Ok(rolevms);
         }
