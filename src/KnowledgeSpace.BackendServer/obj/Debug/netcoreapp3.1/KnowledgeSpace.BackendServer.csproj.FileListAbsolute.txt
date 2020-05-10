@@ -1,0 +1,10 @@
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\appsettings.json
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.exe
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.csprojAssemblyReference.cache
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.AssemblyInfoInputs.cache
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.AssemblyInfo.cs
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.RazorTargetAssemblyInfo.cache
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\staticwebassets\KnowledgeSpace.BackendServer.StaticWebAssets.Manifest.cache
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\staticwebassets\KnowledgeSpace.BackendServer.StaticWebAssets.xml

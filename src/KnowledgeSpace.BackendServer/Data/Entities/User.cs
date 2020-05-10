@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace KnowledgeSpace.BackendServer.Data.Entities
 {
-    [Table("Users")]
     public class User : IdentityUser
     {
         [MaxLength(50)]
