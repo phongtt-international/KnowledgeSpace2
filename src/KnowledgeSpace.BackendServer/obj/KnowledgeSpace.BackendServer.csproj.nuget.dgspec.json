@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.BackendServer\\KnowledgeSpace.BackendServer.fsproj": {}
+    "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.BackendServer\\KnowledgeSpace.BackendServer.csproj": {}
   },
   "projects": {
-    "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.BackendServer\\KnowledgeSpace.BackendServer.fsproj": {
+    "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.BackendServer\\KnowledgeSpace.BackendServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.BackendServer\\KnowledgeSpace.BackendServer.fsproj",
+        "projectUniqueName": "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.BackendServer\\KnowledgeSpace.BackendServer.csproj",
         "projectName": "KnowledgeSpace.BackendServer",
-        "projectPath": "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.BackendServer\\KnowledgeSpace.BackendServer.fsproj",
+        "projectPath": "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.BackendServer\\KnowledgeSpace.BackendServer.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
         "outputPath": "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.BackendServer\\obj\\",
         "projectStyle": "PackageReference",
@@ -28,17 +28,15 @@
           "netcoreapp3.1": {
             "projectReferences": {}
           }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "FSharp.Core": {
-              "target": "Package",
-              "version": "[4.7.0, )",
-              "generatePathProperty": true
-            }
-          },
           "imports": [
             "net461",
             "net462",
