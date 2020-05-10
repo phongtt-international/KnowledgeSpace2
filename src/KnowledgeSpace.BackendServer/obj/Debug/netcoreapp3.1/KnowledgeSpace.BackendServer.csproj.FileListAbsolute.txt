@@ -50,8 +50,12 @@ G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.dll
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.pdb
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.csproj.CoreCompileInputs.cache
-G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.MvcApplicationPartsAssemblyInfo.cache
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.dll
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.pdb
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.genruntimeconfig.cache
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\Serilog.dll
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.csproj.CoreCompileInputs.cache
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.MvcApplicationPartsAssemblyInfo.cache

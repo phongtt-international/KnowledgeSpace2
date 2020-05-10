@@ -55,6 +55,18 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             }
           },
           "imports": [
