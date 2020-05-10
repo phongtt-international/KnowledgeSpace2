@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Zhw7chKrJWX7XrCu27FRbQC7b+27lVw5w7XlR1ZJTTNbpdj5U0h/djnQV/JreWhFz91W3yEpjBRV8lPv5Lk6Tw==",
+  "dgSpecHash": "1mu+9eBuKSoUGmtb+xuHA9K3qa9sw4rknz+Ocupa/L+B69wnP2oiSsAbmeubZV/eAJv4vLSthQ0v/gGZoy0QCA==",
   "success": true,
   "projectFilePath": "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.ViewModels\\KnowledgeSpace.ViewModels.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
   "logs": []
 }

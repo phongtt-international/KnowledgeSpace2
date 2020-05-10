@@ -136,6 +136,3 @@ G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.csproj.CoreCompileInputs.cache
-G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.MvcApplicationPartsAssemblyInfo.cs
-G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.MvcApplicationPartsAssemblyInfo.cache
