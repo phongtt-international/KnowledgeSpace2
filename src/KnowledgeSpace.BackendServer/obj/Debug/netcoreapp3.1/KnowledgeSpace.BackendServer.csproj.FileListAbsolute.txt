@@ -150,9 +150,6 @@ G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.dll
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.pdb
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.csprojAssemblyReference.cache
-G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.csproj.CoreCompileInputs.cache
-G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.MvcApplicationPartsAssemblyInfo.cs
-G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.MvcApplicationPartsAssemblyInfo.cache
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.RazorAssemblyInfo.cache
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.RazorAssemblyInfo.cs
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.AssemblyInfoInputs.cache
@@ -215,3 +212,7 @@ G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.dll
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.pdb
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.genruntimeconfig.cache
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\bin\Debug\netcoreapp3.1\Dapper.dll
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.csproj.CoreCompileInputs.cache
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.MvcApplicationPartsAssemblyInfo.cs
+G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.BackendServer\obj\Debug\netcoreapp3.1\KnowledgeSpace.BackendServer.MvcApplicationPartsAssemblyInfo.cache
