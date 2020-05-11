@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using KnowledgeSpace.ViewModels;
 using KnowledgeSpace.ViewModels.Systems;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -11,10 +12,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace KnowledgeSpace.BackendServer.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    [Authorize("Bearer")]
-    public class RolesController : ControllerBase
+    public class RolesController : BaseController
     {
         private readonly RoleManager<IdentityRole> _roleManager;
 
@@ -25,7 +23,7 @@ namespace KnowledgeSpace.BackendServer.Controllers
 
         //URL: POST: http://localhost:5001/api/roles
         [HttpPost]
-        public async Task<IActionResult> PostRole(RoleVm roleVm)
+        public async Task<IActionResult> PostRole(RoleCreateRequest roleVm)
         {
             var role = new IdentityRole()
             {
@@ -47,7 +45,7 @@ namespace KnowledgeSpace.BackendServer.Controllers
         {
             var roles = await _roleManager.Roles.ToListAsync();
 
-            var rolevms = roles.Select(r => new RoleVm()
+            var rolevms = roles.Select(r => new RoleCreateRequest()
             {
                 Id = r.Id,
                 Name = r.Name   
@@ -67,14 +65,14 @@ namespace KnowledgeSpace.BackendServer.Controllers
             var totalRecords = await query.CountAsync();
             var items = await query.Skip((pageIndex - 1 * pageSize))
                 .Take(pageSize)
-                .Select(r => new RoleVm()
+                .Select(r => new RoleCreateRequest()
                 {
                     Id = r.Id,
                     Name = r.Name
                 })
                 .ToListAsync();
 
-            var pagination = new Pagination<RoleVm>
+            var pagination = new Pagination<RoleCreateRequest>
             {
                 Items = items,
                 TotalRecords = totalRecords,
@@ -90,7 +88,7 @@ namespace KnowledgeSpace.BackendServer.Controllers
             if (role == null)
                 return NotFound();
 
-            var roleVm = new RoleVm()
+            var roleVm = new RoleCreateRequest()
             {
                 Id = role.Id,
                 Name = role.Name,
@@ -100,7 +98,7 @@ namespace KnowledgeSpace.BackendServer.Controllers
 
         //URL: PUT: http://localhost:5001/api/roles/{id}
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutRole(string id, [FromBody]RoleVm roleVm)
+        public async Task<IActionResult> PutRole(string id, [FromBody]RoleCreateRequest roleVm)
         {
             if (id != roleVm.Id)
                 return BadRequest();
@@ -133,7 +131,7 @@ namespace KnowledgeSpace.BackendServer.Controllers
 
             if (result.Succeeded)
             {
-                var rolevm = new RoleVm()
+                var rolevm = new RoleCreateRequest()
                 {
                     Id = role.Id,
                     Name = role.Name

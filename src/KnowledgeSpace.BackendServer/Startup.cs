@@ -71,7 +71,8 @@ namespace KnowledgeSpace.BackendServer
                 options.User.RequireUniqueEmail = true;
             });
 
-            services.AddControllersWithViews().AddFluentValidation( fv => fv.RegisterValidatorsFromAssemblyContaining<RoleVmValidator>());
+            services.AddControllersWithViews()
+                .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<RoleCreateRequestValidator>());
             services.AddAuthentication()
                .AddLocalApi("Bearer", option =>
                {
