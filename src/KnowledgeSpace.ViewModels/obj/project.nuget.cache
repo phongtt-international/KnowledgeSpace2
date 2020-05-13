@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "1mu+9eBuKSoUGmtb+xuHA9K3qa9sw4rknz+Ocupa/L+B69wnP2oiSsAbmeubZV/eAJv4vLSthQ0v/gGZoy0QCA==",
+  "dgSpecHash": "vBuLmtCcTOJCCnu6BgQzl6meVHEwNafiP9ugUktR1QJIVtz8szzRzEKvk5AZVj9gfobzqgz4bzyLA4b6mQqwZA==",
   "success": true,
   "projectFilePath": "G:\\KnowledgeSpaceBackEnd\\src\\KnowledgeSpace.ViewModels\\KnowledgeSpace.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.4\\microsoft.aspnetcore.http.features.3.1.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

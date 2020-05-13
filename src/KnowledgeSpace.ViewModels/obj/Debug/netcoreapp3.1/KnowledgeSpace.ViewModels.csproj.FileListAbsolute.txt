@@ -1,7 +1,6 @@
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.ViewModels\bin\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.deps.json
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.ViewModels\bin\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.dll
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.ViewModels\bin\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.pdb
-G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.ViewModels\obj\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.csproj.CoreCompileInputs.cache
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.ViewModels\obj\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.AssemblyInfoInputs.cache
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.ViewModels\obj\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.AssemblyInfo.cs
 G:\KnowledgeSpaceBackEnd\src\KnowledgeSpace.ViewModels\obj\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.dll
